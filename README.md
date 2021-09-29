@@ -1,10 +1,8 @@
 ### Welcome to my GitHub! 👋
 
-
-Here are some ideas to get you started:
-
+## I'm just (like Saitama says) a coder for fun! And sometimes boredom.
 - 🔭 I’m currently working on ... Something secret ;)
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python (And later on Java)
 - 👯 I’m looking to collaborate on ... Python and Java
 - 🤔 I’m looking for help with ... Java
 - 💬 Ask me about ... Anything
